@@ -1,0 +1,16 @@
+{
+  "transactions": [
+    {
+    "transactionType": "22"
+	},
+    {
+    "transactionType": "23"
+	}
+  ]
+} 
+
+//choice:
+  {
+    "transactionChoice": "COMPRA",
+    "transactionType": "22"
+	}
